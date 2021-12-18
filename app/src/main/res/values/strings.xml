@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhonePeDemo</string>
+    <string name="dummy_text">Text comes here</string>
+    <string name="add_to_playlist">Add to playlist</string>
+</resources>
